@@ -1,4 +1,5 @@
 # SQL
+This is my SQL portfolio where you can find the following folders:
 
 Homework1 -  [Homework_1.md](Homework_1.md)
 
